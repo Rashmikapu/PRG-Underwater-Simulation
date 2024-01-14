@@ -1,6 +1,9 @@
 # Underwater-Robotics
 We are working under the Perceptions and Robotics Group (PRG) at UMD, to use OpenAI's ChatGPT for applications in robotics. We are working on creating a high level function library which can be controlled by ChatGPT and can then be used to undertake several complex tasks which would otherwise require human intervention. Currently an ongoing project.
 
+## Below is the citation for the publication: 
+A. Palnitkar, R. Kapu, X. Lin, C. Liu, N. Karapetyan and Y. Aloimonos, "ChatSim: Underwater Simulation with Natural Language Prompting," OCEANS 2023 - MTS/IEEE U.S. Gulf Coast, Biloxi, MS, USA, 2023, pp. 1-7, doi: 10.23919/OCEANS52994.2023.10337406.
+
 - **Note : Add git lfs tracking in the .gitattributes file or via the terminal if python files are bigger than 50MB**
 - **Note : Use this [google drive link](https://drive.google.com/drive/folders/1-kSRIKONjX89lnxEH12iVjAsx5-octjC?usp=share_link) to download the blender_data folder to avoid lfs**
 
